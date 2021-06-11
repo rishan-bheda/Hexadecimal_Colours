@@ -1,0 +1,53 @@
+h2, p, h1{
+
+    text-align: center;
+
+}
+
+/*{
+
+    border: solid;
+}*/
+
+
+.header{
+
+    background-color:aquamarine;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu{
+
+    display: flex;
+    justify-content:left;
+
+}
+
+.grid{
+
+    background-color: blue;
+
+    display: flex;
+
+    justify-content:center;
+    flex-wrap:wrap;
+
+}
+
+.footer{
+
+    background-color: crimson;
+
+    display: flex;
+
+    justify-content: left;
+
+}
+
+body{
+
+    background-color: #FFFFFF;
+
+}
